@@ -1,0 +1,444 @@
+venta_id,fecha,monto,canal,categoria,cantidad,descuento,pais_iso2,segmento,edad,fecha_alta,id_pais,name,region,nivel_ingreso,capital,cliente_anon
+146,2026-01-02,19179.0,Tienda,Libros,2,0.0,AR,Plata,23,2024-09-30,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,f2b1777ae260
+277,2026-01-03,60613.0,Marketplace,Tecnología,3,0.0,PE,Oro,41,2024-05-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ea6c1fef57d4
+302,2026-01-03,46529.0,Web,Belleza,5,0.0,AR,Oro,48,2025-03-24,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,85e63ad45ddd
+360,2026-01-03,33725.0,Tienda,Tecnología,1,0.15,CO,Bronce,21,2024-10-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fd72b53db7a1
+49,2026-01-05,56520.0,Web,Tecnología,2,0.0,CO,Bronce,44,2025-11-03,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,424e1423e582
+57,2026-01-05,16774.0,Tienda,Alimentos,2,0.15,BR,Bronce,57,2024-06-25,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,6bdfbb1aca33
+63,2026-01-05,27168.0,App,Belleza,1,0.0,CO,Bronce,28,2025-01-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,19474bb6466a
+380,2026-01-05,36315.0,Tienda,Belleza,2,0.0,CL,Plata,27,2024-10-20,CHL,Chile,Latin America & Caribbean ,High income,Santiago,d2277dcc72d9
+58,2026-01-06,69604.0,App,Alimentos,1,0.0,PE,Premium,31,2025-06-29,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,57d5bec6bc44
+18,2026-01-07,102982.0,Tienda,Libros,2,0.0,BR,Oro,70,2024-03-13,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,54383aa5a4d6
+379,2026-01-07,59634.0,Web,Libros,1,0.0,AR,Plata,60,2024-04-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,c5d5e3db68e8
+54,2026-01-08,86819.0,Web,Tecnología,1,0.0,AR,Bronce,56,2025-07-02,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,2e56dd714a16
+90,2026-01-08,17401.0,Tienda,Libros,1,0.0,BR,Bronce,51,2025-06-14,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,b7471ca239cf
+427,2026-01-08,52678.0,App,Deportes,3,0.0,MX,Bronce,62,2024-08-12,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,85a27f8ea346
+239,2026-01-09,76345.0,Tienda,Tecnología,1,0.0,CL,Bronce,67,2024-09-22,CHL,Chile,Latin America & Caribbean ,High income,Santiago,b9f1598cb1de
+117,2026-01-12,39413.0,Marketplace,Tecnología,2,0.05,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+309,2026-01-12,49670.0,Tienda,Libros,2,0.0,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+67,2026-01-13,56113.0,App,Alimentos,2,0.0,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+366,2026-01-13,69573.0,Marketplace,Hogar,2,0.0,AR,Bronce,56,2025-07-02,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,2e56dd714a16
+328,2026-01-14,34297.0,Tienda,Libros,3,0.05,PE,Plata,64,2025-04-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,b7b59ec5e71b
+12,2026-01-15,92223.0,Tienda,Deportes,3,0.2,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+334,2026-01-15,40711.0,App,Deportes,2,0.05,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+39,2026-01-16,46924.0,Tienda,Alimentos,2,0.1,PE,Oro,41,2024-05-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ea6c1fef57d4
+79,2026-01-16,57455.0,Tienda,Belleza,3,0.05,BR,Bronce,57,2024-06-25,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,6bdfbb1aca33
+260,2026-01-16,58971.0,App,Belleza,1,0.0,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+438,2026-01-16,42876.0,Web,Deportes,2,0.2,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+442,2026-01-16,57616.0,App,Belleza,1,0.0,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+113,2026-01-17,130463.0,Tienda,Tecnología,1,0.2,CL,Premium,20,2025-04-14,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9ce1e3210eec
+133,2026-01-19,155214.0,Tienda,Belleza,5,0.0,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+415,2026-01-19,15205.0,Web,Libros,2,0.2,BR,Bronce,25,2025-08-16,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,d7cb821b2338
+60,2026-01-21,114293.0,App,Hogar,2,0.0,CL,Plata,24,2024-10-04,CHL,Chile,Latin America & Caribbean ,High income,Santiago,d3068914f0a4
+74,2026-01-21,18702.0,Tienda,Alimentos,1,0.1,CL,Bronce,67,2024-09-22,CHL,Chile,Latin America & Caribbean ,High income,Santiago,b9f1598cb1de
+304,2026-01-21,43439.0,Marketplace,Deportes,3,0.05,CL,Plata,59,2025-01-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,a8f939b80ce3
+36,2026-01-22,50549.0,App,Libros,4,0.0,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+122,2026-01-24,88247.0,App,Tecnología,1,0.0,AR,Plata,60,2024-04-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,c5d5e3db68e8
+245,2026-01-25,40842.0,Web,Libros,4,0.1,CO,Bronce,40,2024-09-02,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,511eb2444292
+300,2026-01-25,33207.0,Tienda,Hogar,1,0.0,AR,Plata,25,2024-02-27,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,830cc8241ed7
+139,2026-01-26,24172.0,App,Alimentos,1,0.05,BR,Bronce,29,2024-09-26,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,5991181a522b
+341,2026-01-26,75960.0,App,Hogar,3,0.15,BR,Plata,38,2025-04-05,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,87bda2cacc62
+31,2026-01-28,18157.0,Marketplace,Libros,1,0.2,MX,Bronce,61,2025-10-15,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,03e3d9ba4f95
+87,2026-01-28,97908.0,Marketplace,Belleza,1,0.0,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+116,2026-01-28,16357.0,Tienda,Libros,2,0.0,AR,Bronce,70,2024-12-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,1ad77e858357
+198,2026-01-28,172066.0,Marketplace,Deportes,4,0.2,AR,Oro,48,2025-03-24,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,85e63ad45ddd
+275,2026-01-28,47858.0,App,Belleza,2,0.0,CL,Bronce,38,2025-12-01,CHL,Chile,Latin America & Caribbean ,High income,Santiago,36b3e708a9d9
+331,2026-01-28,129552.0,Tienda,Tecnología,2,0.1,AR,Plata,69,2025-11-21,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ecd752f34581
+335,2026-01-28,258541.0,Web,Tecnología,4,0.2,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+398,2026-01-28,132110.0,Marketplace,Tecnología,2,0.1,AR,Oro,55,2024-04-01,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,482b2ce4d2ad
+169,2026-01-29,29445.0,Tienda,Libros,3,0.05,BR,Bronce,29,2024-09-26,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,5991181a522b
+385,2026-01-29,24955.0,Web,Libros,5,0.0,AR,Oro,43,2025-09-08,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,65f21b064032
+208,2026-01-30,28324.0,Tienda,Belleza,2,0.1,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+296,2026-01-30,170559.0,Tienda,Hogar,4,0.05,AR,Plata,23,2024-09-30,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,f2b1777ae260
+343,2026-01-30,29773.0,Tienda,Belleza,1,0.1,PE,Bronce,66,2025-03-03,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ba407776a4dd
+387,2026-01-30,62525.0,Marketplace,Hogar,2,0.0,CL,Bronce,67,2024-09-22,CHL,Chile,Latin America & Caribbean ,High income,Santiago,b9f1598cb1de
+420,2026-01-30,62384.0,Web,Belleza,2,0.2,CL,Plata,59,2025-01-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,a8f939b80ce3
+268,2026-01-31,50456.0,Tienda,Hogar,2,0.2,AR,Plata,60,2024-04-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,c5d5e3db68e8
+44,2026-02-01,54447.0,Tienda,Tecnología,2,0.0,CL,Plata,35,2025-04-30,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e96e08744f35
+163,2026-02-01,59616.0,App,Deportes,1,0.0,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+280,2026-02-01,217474.0,Web,Hogar,5,0.0,CO,Plata,27,2024-10-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2a065a15cb85
+313,2026-02-01,66685.0,App,Libros,4,0.0,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+259,2026-02-02,73986.0,Marketplace,Alimentos,2,0.15,BR,Bronce,37,2024-11-19,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,3557cd78608a
+389,2026-02-02,51021.0,Web,Alimentos,2,0.1,AR,Plata,23,2025-10-12,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,c16cb5ac98f6
+108,2026-02-03,41221.0,App,Libros,2,0.05,AR,Plata,46,2024-07-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,96208251022d
+1,2026-02-06,82513.0,Tienda,Hogar,5,0.0,MX,Bronce,62,2024-08-12,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,85a27f8ea346
+123,2026-02-07,58060.0,App,Deportes,3,0.05,PE,Bronce,33,2024-09-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a6ee29e96028
+190,2026-02-07,46809.0,Tienda,Tecnología,2,0.0,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+248,2026-02-07,66738.0,Marketplace,Hogar,2,0.05,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+69,2026-02-08,84215.0,App,Hogar,1,0.0,CL,Oro,19,2024-09-22,CHL,Chile,Latin America & Caribbean ,High income,Santiago,bb23070a1fc4
+100,2026-02-08,58631.0,Tienda,Tecnología,2,0.2,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+242,2026-02-08,269978.0,Marketplace,Tecnología,3,0.2,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+266,2026-02-08,27187.0,Web,Libros,4,0.05,CL,Plata,45,2025-06-21,CHL,Chile,Latin America & Caribbean ,High income,Santiago,d3b8906c2abf
+374,2026-02-08,80983.0,Web,Tecnología,1,0.05,BR,Bronce,51,2025-06-14,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,b7471ca239cf
+235,2026-02-09,52417.0,Web,Belleza,2,0.0,CL,Plata,69,2025-04-08,CHL,Chile,Latin America & Caribbean ,High income,Santiago,7f2ce1a93c6f
+252,2026-02-09,154772.0,App,Belleza,5,0.1,AR,Oro,48,2025-03-24,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,85e63ad45ddd
+88,2026-02-10,89107.0,App,Hogar,2,0.1,CO,Oro,20,2024-02-20,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,f98e128d81bc
+68,2026-02-11,69430.0,Web,Tecnología,1,0.0,PE,Plata,64,2024-12-28,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a804540956a5
+274,2026-02-11,37649.0,Marketplace,Tecnología,1,0.0,PE,Bronce,51,2024-03-22,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,2b295b96a33a
+281,2026-02-11,61415.0,App,Belleza,2,0.0,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
+371,2026-02-11,40561.0,Tienda,Deportes,1,0.2,CO,Plata,55,2024-01-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,e13c7a91f474
+430,2026-02-11,20065.0,Tienda,Libros,1,0.05,CL,Premium,58,2025-04-26,CHL,Chile,Latin America & Caribbean ,High income,Santiago,540cf7195f67
+445,2026-02-11,69349.0,Web,Deportes,2,0.0,CO,Oro,23,2025-07-27,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,473d9ca1ea34
+162,2026-02-14,17220.0,Web,Libros,2,0.0,AR,Plata,48,2024-11-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,022199085815
+244,2026-02-14,32830.0,Marketplace,Belleza,1,0.05,CO,Oro,20,2024-02-20,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,f98e128d81bc
+17,2026-02-15,12539.0,Marketplace,Alimentos,1,0.0,BR,Bronce,51,2025-06-14,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,b7471ca239cf
+368,2026-02-15,26406.0,Web,Deportes,2,0.05,CL,Plata,35,2025-04-30,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e96e08744f35
+92,2026-02-16,26940.0,Tienda,Libros,2,0.0,PE,Plata,48,2024-06-30,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,c89664f9c984
+402,2026-02-16,81131.0,Web,Deportes,2,0.0,PE,Premium,31,2025-06-29,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,57d5bec6bc44
+332,2026-02-17,74944.0,App,Belleza,1,0.0,AR,Premium,35,2024-09-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ea8a57b8d4a6
+394,2026-02-17,14559.0,Web,Libros,1,0.2,CL,Oro,19,2024-09-22,CHL,Chile,Latin America & Caribbean ,High income,Santiago,bb23070a1fc4
+431,2026-02-17,74936.0,App,Deportes,2,0.05,BR,Plata,38,2025-04-05,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,87bda2cacc62
+99,2026-02-18,107557.0,Web,Belleza,1,0.0,CL,Premium,23,2024-04-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,f9c650901373
+448,2026-02-18,31163.0,Tienda,Alimentos,3,0.1,AR,Bronce,70,2024-12-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,1ad77e858357
+64,2026-02-19,16384.0,Web,Libros,2,0.2,BR,Bronce,37,2024-11-19,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,3557cd78608a
+96,2026-02-19,17772.0,Marketplace,Hogar,1,0.0,CO,Bronce,50,2025-02-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,9e8a70ba6641
+316,2026-02-19,30665.0,App,Deportes,1,0.1,MX,Bronce,62,2024-08-12,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,85a27f8ea346
+325,2026-02-19,127773.0,Web,Tecnología,2,0.0,AR,Plata,25,2024-02-27,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,830cc8241ed7
+412,2026-02-19,16982.0,Marketplace,Libros,1,0.2,AR,Oro,19,2025-10-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,656b5028f16b
+47,2026-02-20,62489.0,Marketplace,Hogar,1,0.2,CL,Oro,69,2025-06-24,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9831c02d53b7
+70,2026-02-20,105647.0,App,Hogar,1,0.0,AR,Plata,46,2024-07-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,96208251022d
+148,2026-02-20,29959.0,Marketplace,Alimentos,1,0.0,MX,Plata,37,2025-09-27,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,01d48b162877
+178,2026-02-20,190640.0,Tienda,Tecnología,4,0.15,BR,Oro,41,2024-05-18,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,3821c8c3cbf1
+34,2026-02-21,57245.0,Marketplace,Hogar,2,0.05,CO,Bronce,50,2025-02-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,9e8a70ba6641
+249,2026-02-21,24978.0,App,Alimentos,2,0.2,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+443,2026-02-21,78369.0,Tienda,Alimentos,1,0.0,CL,Premium,20,2025-04-14,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9ce1e3210eec
+128,2026-02-22,43874.0,Tienda,Alimentos,2,0.1,PE,Bronce,46,2025-08-19,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,3eea3c3d25c6
+166,2026-02-22,34905.0,Web,Alimentos,1,0.0,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+358,2026-02-22,68814.0,Tienda,Deportes,2,0.0,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+61,2026-02-23,93938.0,Marketplace,Tecnología,2,0.0,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+137,2026-02-23,12276.0,Web,Libros,2,0.0,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+255,2026-02-23,55305.0,Marketplace,Belleza,3,0.15,CL,Bronce,38,2025-12-01,CHL,Chile,Latin America & Caribbean ,High income,Santiago,36b3e708a9d9
+267,2026-02-23,71747.0,App,Deportes,2,0.15,AR,Premium,35,2024-09-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ea8a57b8d4a6
+4,2026-02-24,41224.0,App,Alimentos,1,0.0,PE,Premium,57,2025-07-06,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,1b06e4350cd9
+156,2026-02-25,47383.0,Tienda,Alimentos,1,0.0,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+349,2026-02-25,110160.0,Tienda,Tecnología,1,0.15,AR,Oro,55,2024-04-01,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,482b2ce4d2ad
+86,2026-02-26,16545.0,Web,Libros,3,0.05,BR,Bronce,62,2024-11-27,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,d178fcd09b37
+357,2026-02-26,91043.0,App,Deportes,5,0.0,CO,Bronce,44,2025-11-03,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,424e1423e582
+333,2026-02-27,24793.0,Web,Libros,1,0.0,MX,Plata,37,2025-09-27,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,01d48b162877
+110,2026-02-28,74399.0,Web,Hogar,2,0.05,PE,Bronce,66,2025-03-03,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ba407776a4dd
+194,2026-02-28,33501.0,Tienda,Belleza,2,0.2,AR,Bronce,56,2025-07-02,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,2e56dd714a16
+232,2026-02-28,73948.0,Marketplace,Belleza,1,0.0,CL,Oro,69,2025-06-24,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9831c02d53b7
+306,2026-02-28,92350.0,Web,Libros,1,0.05,CO,Oro,22,2025-04-14,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7fe9f2e457a2
+270,2026-03-01,38418.0,App,Alimentos,3,0.1,CL,Plata,35,2025-04-30,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e96e08744f35
+52,2026-03-03,29376.0,Web,Libros,1,0.05,MX,Plata,34,2025-02-11,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,daae9919f6d1
+173,2026-03-03,45376.0,Marketplace,Alimentos,1,0.1,PE,Plata,35,2025-04-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,49f8eaab9cc7
+138,2026-03-04,23990.0,Web,Deportes,1,0.15,CL,Bronce,37,2025-05-12,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e33899fa9efc
+167,2026-03-04,35446.0,Tienda,Belleza,5,0.05,CO,Bronce,21,2024-10-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fd72b53db7a1
+363,2026-03-04,164314.0,App,Hogar,2,0.0,PE,Plata,35,2025-04-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,49f8eaab9cc7
+73,2026-03-05,20175.0,Marketplace,Deportes,1,0.15,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+97,2026-03-05,55844.0,Tienda,Alimentos,2,0.05,PE,Bronce,46,2025-08-19,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,3eea3c3d25c6
+425,2026-03-05,48673.0,Tienda,Tecnología,1,0.0,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+174,2026-03-06,122423.0,App,Hogar,3,0.05,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+269,2026-03-06,28524.0,Tienda,Belleza,1,0.0,PE,Oro,41,2024-05-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ea6c1fef57d4
+384,2026-03-06,40244.0,Marketplace,Deportes,3,0.0,CO,Bronce,40,2024-09-02,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,511eb2444292
+62,2026-03-07,27630.0,Tienda,Belleza,1,0.0,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+7,2026-03-08,28610.0,Tienda,Deportes,1,0.1,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+140,2026-03-08,55976.0,Tienda,Belleza,2,0.1,CO,Plata,65,2025-01-10,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fe44e5196da5
+172,2026-03-08,112367.0,Marketplace,Tecnología,3,0.0,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+297,2026-03-08,190174.0,Marketplace,Deportes,2,0.1,AR,Premium,38,2024-06-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,887b49c5bceb
+418,2026-03-08,86348.0,App,Belleza,1,0.0,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+23,2026-03-09,102823.0,Tienda,Tecnología,5,0.15,MX,Bronce,61,2025-10-15,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,03e3d9ba4f95
+305,2026-03-09,125274.0,Web,Hogar,2,0.0,PE,Premium,54,2025-05-14,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,15f913a0b5af
+308,2026-03-09,49602.0,Tienda,Belleza,2,0.0,BR,Bronce,63,2024-07-04,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,9217cea42335
+189,2026-03-10,83335.0,Tienda,Deportes,1,0.0,AR,Oro,30,2024-08-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,e3eb82128bb8
+214,2026-03-11,42820.0,Marketplace,Libros,2,0.1,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+437,2026-03-11,67404.0,App,Libros,1,0.0,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+131,2026-03-14,44773.0,Marketplace,Hogar,1,0.15,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+419,2026-03-14,32576.0,App,Belleza,3,0.2,CO,Plata,65,2025-01-10,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fe44e5196da5
+77,2026-03-15,28763.0,Web,Libros,2,0.0,CO,Oro,22,2025-04-14,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7fe9f2e457a2
+320,2026-03-15,124135.0,Tienda,Deportes,2,0.1,AR,Oro,55,2024-04-01,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,482b2ce4d2ad
+376,2026-03-15,28258.0,Web,Libros,2,0.2,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+226,2026-03-16,79040.0,Web,Belleza,2,0.1,BR,Bronce,62,2024-11-27,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,d178fcd09b37
+22,2026-03-17,32024.0,Tienda,Libros,1,0.15,CL,Plata,38,2025-05-08,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6386b89045ed
+85,2026-03-17,56557.0,App,Libros,2,0.15,CL,Plata,59,2025-01-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,a8f939b80ce3
+196,2026-03-17,61370.0,App,Libros,2,0.0,CO,Premium,63,2025-11-27,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,494426fa162f
+278,2026-03-18,43564.0,Tienda,Belleza,1,0.05,MX,Oro,68,2024-08-06,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d7fbab5c420f
+16,2026-03-19,65952.0,Marketplace,Alimentos,3,0.1,CO,Premium,21,2024-07-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,ac1881a73208
+56,2026-03-19,60468.0,Web,Belleza,3,0.1,AR,Plata,67,2024-10-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b741a9127ba9
+112,2026-03-19,21268.0,App,Belleza,2,0.0,PE,Bronce,59,2024-12-09,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,68542c140eab
+136,2026-03-19,85443.0,Web,Hogar,2,0.2,CL,Plata,38,2025-05-08,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6386b89045ed
+342,2026-03-19,75081.0,App,Deportes,1,0.15,CL,Plata,34,2024-01-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,3d44f20f927e
+84,2026-03-20,25546.0,Web,Libros,1,0.0,BR,Bronce,24,2024-02-29,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,4ff87bdb198c
+340,2026-03-20,41886.0,App,Hogar,1,0.2,PE,Bronce,41,2024-08-10,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,9f86fe9b7e51
+206,2026-03-21,96537.0,Web,Hogar,1,0.0,CO,Plata,22,2025-07-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1bf0f7a0d49f
+405,2026-03-22,40562.0,Marketplace,Deportes,2,0.2,PE,Plata,35,2025-04-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,49f8eaab9cc7
+78,2026-03-23,108235.0,Marketplace,Deportes,3,0.0,MX,Plata,22,2024-08-21,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,8ee82ebf49a8
+289,2026-03-23,90645.0,Marketplace,Hogar,1,0.2,CO,Plata,22,2025-07-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1bf0f7a0d49f
+330,2026-03-23,199760.0,Tienda,Tecnología,2,0.1,PE,Oro,70,2025-07-24,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,80371570624a
+377,2026-03-23,106629.0,App,Tecnología,1,0.0,CO,Oro,23,2025-07-27,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,473d9ca1ea34
+124,2026-03-24,35079.0,Web,Alimentos,2,0.1,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+144,2026-03-24,68013.0,Web,Deportes,1,0.0,CL,Bronce,37,2025-05-12,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e33899fa9efc
+165,2026-03-24,79025.0,Marketplace,Belleza,1,0.0,CL,Plata,65,2024-05-15,CHL,Chile,Latin America & Caribbean ,High income,Santiago,26818c737771
+233,2026-03-25,107788.0,Tienda,Deportes,3,0.1,CL,Bronce,38,2025-12-01,CHL,Chile,Latin America & Caribbean ,High income,Santiago,36b3e708a9d9
+285,2026-03-25,31383.0,Tienda,Alimentos,2,0.1,BR,Plata,38,2025-04-05,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,87bda2cacc62
+364,2026-03-25,41685.0,Tienda,Belleza,1,0.0,CL,Bronce,61,2025-11-06,CHL,Chile,Latin America & Caribbean ,High income,Santiago,4892282b431d
+424,2026-03-25,42855.0,Marketplace,Hogar,1,0.15,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+98,2026-03-26,335638.0,Web,Tecnología,1,0.0,CO,Premium,21,2024-07-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,ac1881a73208
+295,2026-03-26,61163.0,App,Deportes,1,0.0,CL,Bronce,63,2024-10-09,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6d32c769e0cb
+25,2026-03-27,148445.0,Tienda,Deportes,1,0.05,BR,Oro,58,2024-08-29,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,4913915f2503
+45,2026-03-28,106051.0,Marketplace,Tecnología,1,0.0,MX,Plata,63,2024-11-14,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9e023f39ae2e
+103,2026-03-29,80489.0,Web,Hogar,1,0.1,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+154,2026-03-29,83268.0,Web,Tecnología,3,0.0,BR,Bronce,51,2025-06-14,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,b7471ca239cf
+370,2026-03-31,38991.0,Web,Belleza,1,0.2,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+262,2026-04-01,66316.0,Web,Deportes,1,0.15,CL,Plata,24,2024-10-04,CHL,Chile,Latin America & Caribbean ,High income,Santiago,d3068914f0a4
+142,2026-04-02,60863.0,Web,Deportes,2,0.15,AR,Bronce,56,2025-07-02,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,2e56dd714a16
+344,2026-04-02,64069.0,App,Belleza,1,0.0,AR,Oro,20,2025-05-03,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,42bd6fdf6dfe
+180,2026-04-03,31438.0,App,Libros,2,0.15,BR,Plata,38,2025-04-05,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,87bda2cacc62
+294,2026-04-03,38001.0,Web,Alimentos,2,0.1,PE,Bronce,41,2024-08-10,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,9f86fe9b7e51
+71,2026-04-04,99921.0,Tienda,Deportes,2,0.15,AR,Oro,43,2025-09-08,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,65f21b064032
+381,2026-04-04,18975.0,App,Libros,5,0.0,CL,Bronce,70,2024-10-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9b88be7d5d9b
+8,2026-04-06,25131.0,App,Libros,4,0.15,CL,Bronce,50,2024-06-01,CHL,Chile,Latin America & Caribbean ,High income,Santiago,7e4b0d36655d
+41,2026-04-06,22727.0,Tienda,Alimentos,2,0.0,MX,Plata,34,2025-02-11,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,daae9919f6d1
+229,2026-04-06,48564.0,Web,Alimentos,2,0.2,AR,Oro,30,2024-08-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,e3eb82128bb8
+2,2026-04-07,27622.0,Marketplace,Libros,3,0.0,AR,Plata,58,2025-10-14,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,32e5d14b40f2
+13,2026-04-07,63010.0,Marketplace,Tecnología,1,0.0,CL,Bronce,70,2024-10-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9b88be7d5d9b
+210,2026-04-07,27140.0,App,Alimentos,2,0.0,CL,Bronce,38,2025-12-01,CHL,Chile,Latin America & Caribbean ,High income,Santiago,36b3e708a9d9
+353,2026-04-07,216152.0,App,Deportes,1,0.0,CO,Premium,47,2024-02-09,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,901f509b7091
+83,2026-04-08,140612.0,Web,Deportes,4,0.15,PE,Plata,64,2024-12-28,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a804540956a5
+145,2026-04-08,108683.0,Marketplace,Tecnología,1,0.0,CO,Plata,65,2025-01-10,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fe44e5196da5
+177,2026-04-08,58956.0,App,Libros,2,0.0,BR,Oro,41,2024-05-18,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,3821c8c3cbf1
+417,2026-04-08,64185.0,App,Tecnología,2,0.0,BR,Bronce,25,2025-08-16,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,d7cb821b2338
+225,2026-04-09,100852.0,Tienda,Belleza,4,0.0,BR,Oro,41,2024-05-18,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,3821c8c3cbf1
+383,2026-04-09,58164.0,App,Hogar,1,0.0,BR,Bronce,57,2024-06-25,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,6bdfbb1aca33
+46,2026-04-10,14005.0,Marketplace,Libros,2,0.0,CL,Bronce,70,2024-10-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9b88be7d5d9b
+212,2026-04-10,13957.0,Marketplace,Deportes,1,0.2,CO,Bronce,21,2024-10-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fd72b53db7a1
+221,2026-04-11,59636.0,App,Hogar,1,0.05,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
+28,2026-04-12,17224.0,Tienda,Alimentos,1,0.0,BR,Bronce,29,2024-09-26,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,5991181a522b
+37,2026-04-13,57265.0,Web,Hogar,2,0.1,PE,Oro,23,2025-06-01,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,eb4ab45cf540
+158,2026-04-13,145020.0,Tienda,Hogar,3,0.1,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+213,2026-04-13,27927.0,App,Libros,1,0.0,PE,Plata,35,2025-04-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,49f8eaab9cc7
+152,2026-04-16,19543.0,Marketplace,Libros,4,0.2,MX,Bronce,55,2024-05-23,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9fd99164f6b2
+192,2026-04-16,26962.0,Tienda,Belleza,1,0.1,BR,Bronce,57,2024-06-25,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,6bdfbb1aca33
+351,2026-04-16,48559.0,Tienda,Belleza,3,0.0,CL,Bronce,61,2025-11-06,CHL,Chile,Latin America & Caribbean ,High income,Santiago,4892282b431d
+440,2026-04-16,35909.0,Web,Alimentos,3,0.1,AR,Plata,46,2024-07-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,96208251022d
+160,2026-04-17,21820.0,App,Libros,3,0.0,CO,Bronce,50,2025-02-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,9e8a70ba6641
+171,2026-04-17,56112.0,Tienda,Hogar,1,0.2,PE,Plata,64,2025-04-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,b7b59ec5e71b
+423,2026-04-17,11700.0,Marketplace,Alimentos,1,0.15,MX,Plata,23,2024-08-09,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d98dcc52f4ca
+15,2026-04-18,60856.0,Tienda,Alimentos,1,0.05,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+312,2026-04-18,91289.0,App,Hogar,5,0.0,CO,Bronce,28,2025-01-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,19474bb6466a
+439,2026-04-18,148007.0,Tienda,Tecnología,3,0.0,PE,Oro,23,2025-06-01,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,eb4ab45cf540
+35,2026-04-19,204892.0,Web,Hogar,1,0.0,CL,Plata,59,2025-01-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,a8f939b80ce3
+187,2026-04-20,23226.0,Web,Libros,2,0.1,CO,Bronce,50,2025-02-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,9e8a70ba6641
+80,2026-04-21,63807.0,Web,Hogar,3,0.15,CL,Plata,65,2024-05-15,CHL,Chile,Latin America & Caribbean ,High income,Santiago,26818c737771
+149,2026-04-21,121641.0,Tienda,Tecnología,2,0.1,AR,Plata,67,2024-10-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b741a9127ba9
+181,2026-04-21,13752.0,Tienda,Deportes,2,0.2,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+290,2026-04-22,72063.0,App,Deportes,3,0.15,CO,Oro,22,2025-10-21,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,a7e5fa346083
+134,2026-04-23,95608.0,Tienda,Hogar,1,0.2,PE,Oro,40,2025-02-06,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,6580091c73b8
+284,2026-04-23,42078.0,Tienda,Libros,1,0.0,AR,Bronce,70,2024-12-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,1ad77e858357
+411,2026-04-23,21977.0,Marketplace,Alimentos,3,0.0,CL,Plata,35,2025-04-30,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e96e08744f35
+120,2026-04-24,48629.0,Tienda,Belleza,3,0.0,CO,Oro,22,2025-10-21,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,a7e5fa346083
+231,2026-04-24,101370.0,Web,Tecnología,1,0.05,AR,Plata,46,2024-07-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,96208251022d
+76,2026-04-25,82629.0,Marketplace,Tecnología,1,0.2,CL,Bronce,67,2024-09-22,CHL,Chile,Latin America & Caribbean ,High income,Santiago,b9f1598cb1de
+106,2026-04-26,65081.0,Web,Belleza,1,0.0,PE,Bronce,46,2025-08-19,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,3eea3c3d25c6
+193,2026-04-27,78149.0,Marketplace,Deportes,3,0.15,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+263,2026-04-27,170673.0,Tienda,Belleza,2,0.0,AR,Oro,19,2025-10-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,656b5028f16b
+9,2026-04-28,31002.0,Tienda,Libros,1,0.2,MX,Plata,22,2024-08-21,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,8ee82ebf49a8
+176,2026-04-28,28576.0,Marketplace,Libros,3,0.2,AR,Plata,69,2025-11-21,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ecd752f34581
+416,2026-04-28,133522.0,Tienda,Belleza,1,0.0,CO,Premium,63,2025-11-27,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,494426fa162f
+347,2026-04-30,53557.0,Web,Hogar,4,0.05,CO,Plata,27,2024-10-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2a065a15cb85
+356,2026-05-01,79822.0,Marketplace,Alimentos,3,0.0,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+403,2026-05-01,14675.0,App,Belleza,1,0.1,BR,Bronce,63,2024-07-04,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,9217cea42335
+118,2026-05-02,10460.0,Marketplace,Libros,1,0.15,PE,Bronce,33,2024-09-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a6ee29e96028
+327,2026-05-02,23809.0,Web,Alimentos,3,0.15,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+109,2026-05-03,34855.0,App,Alimentos,1,0.15,CL,Premium,20,2025-04-14,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9ce1e3210eec
+224,2026-05-03,33955.0,Tienda,Libros,2,0.15,PE,Plata,64,2025-04-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,b7b59ec5e71b
+329,2026-05-03,27936.0,Tienda,Belleza,1,0.2,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+209,2026-05-04,22931.0,Web,Alimentos,1,0.2,CL,Oro,69,2025-06-24,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9831c02d53b7
+301,2026-05-04,36648.0,Web,Alimentos,1,0.0,MX,Bronce,55,2024-05-23,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9fd99164f6b2
+127,2026-05-05,82922.0,Web,Hogar,2,0.2,AR,Oro,19,2025-10-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,656b5028f16b
+298,2026-05-05,58535.0,App,Belleza,2,0.0,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+323,2026-05-05,278916.0,App,Deportes,1,0.0,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+339,2026-05-05,54633.0,Web,Hogar,1,0.05,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+55,2026-05-06,66704.0,Web,Tecnología,1,0.2,PE,Bronce,66,2025-03-03,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ba407776a4dd
+317,2026-05-06,24982.0,App,Hogar,2,0.0,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+324,2026-05-07,30389.0,App,Libros,3,0.0,PE,Plata,64,2024-12-28,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a804540956a5
+435,2026-05-07,61777.0,Tienda,Alimentos,1,0.1,CL,Premium,23,2024-04-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,f9c650901373
+271,2026-05-08,84704.0,App,Belleza,1,0.2,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+400,2026-05-09,83367.0,Tienda,Tecnología,3,0.1,BR,Bronce,46,2025-02-17,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,0729158827b7
+311,2026-05-10,13489.0,App,Belleza,1,0.1,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+446,2026-05-11,21196.0,Web,Libros,3,0.0,CO,Bronce,40,2024-09-02,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,511eb2444292
+310,2026-05-12,43485.0,Tienda,Alimentos,3,0.05,CO,Oro,22,2025-10-21,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,a7e5fa346083
+336,2026-05-12,154351.0,Web,Deportes,4,0.05,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
+3,2026-05-13,12155.0,Marketplace,Alimentos,1,0.1,CO,Bronce,38,2025-06-06,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5f0547018cde
+59,2026-05-13,30003.0,Marketplace,Libros,3,0.2,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+314,2026-05-13,15711.0,Tienda,Libros,1,0.1,CL,Bronce,63,2024-10-09,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6d32c769e0cb
+135,2026-05-14,213330.0,Marketplace,Tecnología,2,0.05,AR,Oro,63,2024-01-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,d39b627ecdd0
+238,2026-05-14,33001.0,Tienda,Belleza,3,0.2,PE,Oro,41,2024-05-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ea6c1fef57d4
+375,2026-05-14,25504.0,Tienda,Belleza,1,0.0,CO,Plata,55,2024-01-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,e13c7a91f474
+38,2026-05-15,27473.0,Tienda,Libros,3,0.05,BR,Bronce,46,2025-02-17,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,0729158827b7
+170,2026-05-15,16263.0,Web,Belleza,1,0.0,PE,Bronce,40,2024-05-10,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,c58c80215527
+450,2026-05-15,89891.0,Web,Hogar,1,0.0,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+147,2026-05-16,146257.0,Marketplace,Deportes,5,0.0,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+51,2026-05-17,112455.0,Marketplace,Deportes,2,0.2,MX,Oro,68,2024-08-06,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d7fbab5c420f
+143,2026-05-17,77646.0,Tienda,Deportes,1,0.0,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+32,2026-05-18,75854.0,Tienda,Tecnología,2,0.0,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+264,2026-05-18,23755.0,Web,Libros,3,0.2,CL,Bronce,63,2024-10-09,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6d32c769e0cb
+287,2026-05-18,30303.0,Tienda,Hogar,1,0.05,AR,Bronce,56,2025-07-02,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,2e56dd714a16
+132,2026-05-19,133891.0,Marketplace,Deportes,1,0.05,MX,Plata,63,2024-11-14,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9e023f39ae2e
+258,2026-05-19,16915.0,App,Libros,2,0.2,CL,Plata,65,2024-05-15,CHL,Chile,Latin America & Caribbean ,High income,Santiago,26818c737771
+322,2026-05-19,60856.0,App,Deportes,1,0.0,MX,Plata,23,2024-08-09,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d98dcc52f4ca
+404,2026-05-19,113463.0,Marketplace,Alimentos,5,0.0,CO,Premium,63,2025-11-27,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,494426fa162f
+10,2026-05-20,26831.0,Marketplace,Libros,4,0.0,MX,Bronce,61,2025-10-15,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,03e3d9ba4f95
+408,2026-05-20,44939.0,Tienda,Hogar,3,0.15,CO,Bronce,40,2024-09-02,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,511eb2444292
+230,2026-05-22,114230.0,Tienda,Belleza,5,0.05,MX,Bronce,61,2025-10-15,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,03e3d9ba4f95
+91,2026-05-23,77745.0,Marketplace,Deportes,2,0.2,PE,Premium,31,2025-06-29,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,57d5bec6bc44
+121,2026-05-23,59030.0,Marketplace,Belleza,1,0.0,AR,Plata,46,2024-07-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,96208251022d
+168,2026-05-23,103147.0,App,Deportes,1,0.1,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+359,2026-05-23,40738.0,Web,Libros,5,0.1,AR,Plata,23,2024-09-30,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,f2b1777ae260
+397,2026-05-23,118594.0,Tienda,Hogar,2,0.05,CL,Plata,69,2025-04-08,CHL,Chile,Latin America & Caribbean ,High income,Santiago,7f2ce1a93c6f
+81,2026-05-25,213404.0,App,Tecnología,4,0.0,PE,Premium,31,2025-06-29,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,57d5bec6bc44
+218,2026-05-25,46530.0,Marketplace,Belleza,1,0.0,PE,Bronce,66,2025-03-03,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ba407776a4dd
+256,2026-05-25,193520.0,App,Hogar,1,0.0,PE,Oro,41,2024-05-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ea6c1fef57d4
+288,2026-05-25,225314.0,Marketplace,Tecnología,3,0.0,AR,Oro,40,2024-01-24,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b1a9fcee21a8
+365,2026-05-25,81293.0,App,Belleza,3,0.2,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+369,2026-05-26,30980.0,Web,Tecnología,1,0.0,PE,Plata,35,2025-04-13,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,49f8eaab9cc7
+40,2026-05-28,64946.0,Tienda,Deportes,1,0.05,AR,Oro,19,2025-10-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,656b5028f16b
+367,2026-05-28,30501.0,Web,Libros,1,0.0,PE,Premium,31,2025-06-29,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,57d5bec6bc44
+182,2026-05-30,74474.0,Marketplace,Hogar,1,0.15,MX,Plata,34,2025-02-11,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,daae9919f6d1
+348,2026-05-30,76747.0,Tienda,Deportes,3,0.05,CL,Plata,65,2024-05-15,CHL,Chile,Latin America & Caribbean ,High income,Santiago,26818c737771
+399,2026-05-30,29141.0,Web,Deportes,1,0.2,AR,Bronce,64,2025-03-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,7ffc99269e3d
+220,2026-05-31,15437.0,Tienda,Libros,3,0.1,BR,Bronce,57,2024-06-25,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,6bdfbb1aca33
+406,2026-05-31,33397.0,App,Libros,3,0.0,PE,Bronce,59,2024-12-09,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,68542c140eab
+247,2026-06-01,148950.0,App,Hogar,3,0.05,AR,Premium,35,2024-09-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ea8a57b8d4a6
+393,2026-06-01,35387.0,Web,Belleza,1,0.0,BR,Bronce,57,2024-06-25,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,6bdfbb1aca33
+24,2026-06-03,77426.0,App,Hogar,1,0.05,MX,Plata,37,2025-09-27,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,01d48b162877
+75,2026-06-03,118934.0,App,Alimentos,1,0.0,AR,Oro,20,2025-05-03,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,42bd6fdf6dfe
+115,2026-06-03,87792.0,App,Belleza,4,0.0,PE,Premium,31,2025-06-29,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,57d5bec6bc44
+265,2026-06-03,214211.0,Marketplace,Hogar,1,0.0,CO,Plata,65,2025-01-10,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fe44e5196da5
+48,2026-06-04,40832.0,App,Alimentos,2,0.0,CO,Plata,27,2024-10-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2a065a15cb85
+352,2026-06-04,77981.0,Marketplace,Tecnología,1,0.2,CO,Plata,27,2024-10-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2a065a15cb85
+373,2026-06-04,65566.0,Tienda,Deportes,1,0.0,CO,Oro,22,2025-04-14,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7fe9f2e457a2
+428,2026-06-04,22730.0,App,Libros,1,0.0,AR,Bronce,70,2024-12-09,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,1ad77e858357
+378,2026-06-05,91829.0,App,Tecnología,3,0.1,CO,Plata,27,2024-10-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2a065a15cb85
+388,2026-06-05,12793.0,Web,Libros,1,0.1,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+422,2026-06-05,63030.0,Marketplace,Belleza,1,0.0,PE,Premium,57,2025-07-06,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,1b06e4350cd9
+203,2026-06-06,81276.0,App,Tecnología,1,0.1,CO,Oro,22,2025-10-21,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,a7e5fa346083
+246,2026-06-06,21672.0,App,Libros,1,0.0,MX,Plata,23,2024-08-09,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d98dcc52f4ca
+321,2026-06-06,35673.0,Web,Hogar,4,0.2,CL,Bronce,70,2024-10-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9b88be7d5d9b
+14,2026-06-07,13307.0,App,Libros,1,0.0,BR,Bronce,24,2024-02-29,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,4ff87bdb198c
+19,2026-06-07,78507.0,Tienda,Belleza,5,0.0,CO,Bronce,21,2024-10-16,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fd72b53db7a1
+215,2026-06-07,252194.0,Marketplace,Tecnología,2,0.1,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+432,2026-06-07,103919.0,Tienda,Belleza,3,0.0,CO,Premium,21,2024-07-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,ac1881a73208
+20,2026-06-11,113285.0,Marketplace,Deportes,1,0.0,CL,Premium,58,2025-04-26,CHL,Chile,Latin America & Caribbean ,High income,Santiago,540cf7195f67
+43,2026-06-11,35664.0,Web,Libros,1,0.2,AR,Oro,40,2024-01-24,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b1a9fcee21a8
+155,2026-06-11,26725.0,Web,Alimentos,4,0.05,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+355,2026-06-12,81720.0,Tienda,Tecnología,3,0.05,CL,Plata,65,2024-05-15,CHL,Chile,Latin America & Caribbean ,High income,Santiago,26818c737771
+279,2026-06-13,100467.0,Marketplace,Hogar,1,0.0,CO,Bronce,28,2025-01-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,19474bb6466a
+326,2026-06-13,96575.0,Tienda,Deportes,3,0.15,AR,Plata,23,2025-10-12,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,c16cb5ac98f6
+42,2026-06-14,115014.0,Web,Hogar,1,0.05,CO,Oro,20,2024-02-20,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,f98e128d81bc
+72,2026-06-14,45909.0,Marketplace,Hogar,2,0.05,AR,Plata,67,2024-10-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b741a9127ba9
+107,2026-06-14,85881.0,Marketplace,Deportes,1,0.15,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+114,2026-06-14,40573.0,App,Libros,1,0.2,CL,Bronce,37,2025-05-12,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e33899fa9efc
+188,2026-06-14,85387.0,Web,Tecnología,4,0.2,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+291,2026-06-14,20227.0,Web,Libros,1,0.2,AR,Plata,25,2024-02-27,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,830cc8241ed7
+361,2026-06-15,66414.0,App,Hogar,4,0.05,MX,Plata,22,2024-08-21,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,8ee82ebf49a8
+26,2026-06-16,15217.0,Tienda,Libros,1,0.15,CL,Plata,38,2025-05-08,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6386b89045ed
+30,2026-06-16,19344.0,Web,Alimentos,1,0.05,BR,Oro,70,2024-03-13,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,54383aa5a4d6
+286,2026-06-16,40674.0,Marketplace,Deportes,1,0.2,CO,Premium,18,2025-03-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,cf586a1c2282
+129,2026-06-17,40569.0,App,Belleza,5,0.0,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+211,2026-06-17,108511.0,Tienda,Hogar,2,0.2,CO,Bronce,55,2024-07-30,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3aaba53281fa
+222,2026-06-17,14249.0,Marketplace,Alimentos,1,0.2,BR,Bronce,29,2024-09-26,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,5991181a522b
+228,2026-06-17,43759.0,Marketplace,Libros,1,0.0,CO,Oro,22,2025-04-14,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7fe9f2e457a2
+237,2026-06-17,15903.0,App,Libros,2,0.05,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+410,2026-06-17,92268.0,Web,Deportes,1,0.0,AR,Oro,19,2025-10-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,656b5028f16b
+414,2026-06-17,48120.0,Tienda,Belleza,1,0.05,AR,Oro,40,2024-01-24,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b1a9fcee21a8
+409,2026-06-18,93508.0,Tienda,Deportes,1,0.1,AR,Premium,38,2024-06-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,887b49c5bceb
+11,2026-06-19,74997.0,App,Deportes,1,0.0,MX,Bronce,62,2024-08-12,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,85a27f8ea346
+449,2026-06-20,57225.0,Web,Hogar,1,0.0,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+436,2026-06-22,48738.0,App,Alimentos,4,0.0,CL,Bronce,63,2024-10-09,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6d32c769e0cb
+27,2026-06-23,39426.0,Web,Alimentos,3,0.2,AR,Bronce,56,2025-07-02,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,2e56dd714a16
+299,2026-06-23,142416.0,Tienda,Hogar,1,0.0,AR,Oro,20,2025-05-03,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,42bd6fdf6dfe
+372,2026-06-23,35014.0,Tienda,Alimentos,1,0.0,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+315,2026-06-24,40435.0,Marketplace,Libros,3,0.15,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+337,2026-06-24,45745.0,Tienda,Hogar,2,0.15,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+217,2026-06-25,26701.0,Web,Libros,1,0.0,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+261,2026-06-26,345347.0,Tienda,Tecnología,3,0.0,CL,Premium,20,2025-04-14,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9ce1e3210eec
+272,2026-06-27,45213.0,App,Libros,2,0.05,CL,Oro,69,2025-06-24,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9831c02d53b7
+201,2026-06-28,133767.0,Web,Belleza,2,0.0,MX,Oro,68,2024-08-06,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d7fbab5c420f
+240,2026-06-28,157369.0,App,Belleza,2,0.1,CL,Premium,23,2024-04-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,f9c650901373
+307,2026-06-28,56703.0,App,Deportes,1,0.0,AR,Oro,30,2024-08-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,e3eb82128bb8
+126,2026-06-29,39361.0,Tienda,Hogar,1,0.2,CO,Bronce,38,2025-06-06,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5f0547018cde
+447,2026-06-30,12105.0,Tienda,Alimentos,3,0.2,BR,Bronce,24,2024-02-29,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,4ff87bdb198c
+33,2026-07-01,24518.0,Marketplace,Tecnología,1,0.15,AR,Plata,67,2024-10-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b741a9127ba9
+186,2026-07-01,73202.0,App,Hogar,4,0.1,CO,Bronce,40,2024-09-02,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,511eb2444292
+184,2026-07-02,54899.0,App,Deportes,2,0.0,CL,Bronce,63,2024-10-09,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6d32c769e0cb
+350,2026-07-02,26383.0,Web,Belleza,1,0.15,AR,Plata,48,2024-11-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,022199085815
+391,2026-07-02,71859.0,Web,Belleza,3,0.05,CL,Premium,20,2025-04-14,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9ce1e3210eec
+401,2026-07-02,42533.0,Web,Alimentos,1,0.1,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+227,2026-07-04,43862.0,App,Deportes,2,0.1,BR,Bronce,46,2025-02-17,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,0729158827b7
+426,2026-07-04,58651.0,App,Libros,1,0.0,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+29,2026-07-05,17324.0,Web,Libros,1,0.05,CL,Plata,35,2025-04-30,CHL,Chile,Latin America & Caribbean ,High income,Santiago,e96e08744f35
+254,2026-07-05,51864.0,Marketplace,Belleza,1,0.05,CL,Oro,31,2024-06-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,431c1bbedd86
+407,2026-07-05,28326.0,Marketplace,Libros,1,0.1,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+111,2026-07-07,92944.0,Marketplace,Tecnología,4,0.05,BR,Bronce,63,2024-07-04,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,9217cea42335
+219,2026-07-07,70017.0,Web,Hogar,3,0.0,CO,Bronce,38,2025-11-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,1760990a8333
+303,2026-07-07,82923.0,App,Deportes,1,0.1,PE,Oro,70,2025-07-24,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,80371570624a
+293,2026-07-09,38217.0,Web,Libros,5,0.15,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
+200,2026-07-10,150606.0,App,Tecnología,4,0.15,AR,Plata,69,2025-11-21,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ecd752f34581
+396,2026-07-10,67391.0,Tienda,Belleza,2,0.0,AR,Oro,30,2024-08-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,e3eb82128bb8
+223,2026-07-11,45487.0,Tienda,Belleza,4,0.15,MX,Bronce,55,2024-05-23,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9fd99164f6b2
+253,2026-07-11,95471.0,Marketplace,Belleza,4,0.0,AR,Oro,19,2025-10-15,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,656b5028f16b
+429,2026-07-12,70985.0,App,Alimentos,1,0.0,PE,Bronce,59,2024-12-09,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,68542c140eab
+104,2026-07-13,106454.0,App,Belleza,1,0.0,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+346,2026-07-13,9149.0,Tienda,Libros,1,0.15,PE,Bronce,66,2025-03-03,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,ba407776a4dd
+382,2026-07-13,349104.0,Web,Tecnología,2,0.0,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+21,2026-07-14,29926.0,Marketplace,Deportes,2,0.05,MX,Bronce,38,2024-05-30,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,ab5a90086906
+179,2026-07-14,20035.0,Tienda,Libros,2,0.15,MX,Plata,63,2024-11-14,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9e023f39ae2e
+386,2026-07-14,57239.0,Tienda,Deportes,1,0.0,CO,Plata,55,2024-01-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,e13c7a91f474
+5,2026-07-15,81132.0,Marketplace,Alimentos,2,0.0,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+292,2026-07-15,89814.0,App,Deportes,1,0.0,AR,Plata,69,2025-11-21,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ecd752f34581
+395,2026-07-15,34082.0,Tienda,Alimentos,5,0.2,CL,Plata,24,2024-10-04,CHL,Chile,Latin America & Caribbean ,High income,Santiago,d3068914f0a4
+119,2026-07-16,38301.0,Marketplace,Tecnología,1,0.2,CO,Bronce,55,2024-07-30,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3aaba53281fa
+183,2026-07-16,11418.0,App,Alimentos,1,0.2,MX,Oro,68,2024-08-06,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,d7fbab5c420f
+89,2026-07-17,89340.0,Web,Belleza,2,0.1,CO,Premium,21,2024-07-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,ac1881a73208
+362,2026-07-17,98164.0,App,Tecnología,3,0.2,CO,Bronce,40,2024-09-02,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,511eb2444292
+105,2026-07-18,34267.0,Web,Belleza,1,0.15,BR,Oro,58,2024-08-29,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,4913915f2503
+202,2026-07-19,50478.0,Tienda,Libros,1,0.15,PE,Oro,27,2025-07-25,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,99dbbf3f6239
+433,2026-07-20,23988.0,Tienda,Libros,2,0.0,CO,Oro,49,2024-09-26,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,5d4ce7b13e4c
+441,2026-07-20,168598.0,Marketplace,Tecnología,4,0.15,PE,Plata,48,2024-06-30,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,c89664f9c984
+102,2026-07-22,33144.0,App,Tecnología,1,0.2,CO,Bronce,18,2025-05-18,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,066177f1b8a3
+159,2026-07-22,27727.0,Tienda,Belleza,1,0.0,AR,Plata,67,2024-10-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b741a9127ba9
+191,2026-07-23,65185.0,Tienda,Tecnología,2,0.1,PE,Bronce,41,2024-08-10,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,9f86fe9b7e51
+345,2026-07-23,19095.0,Tienda,Alimentos,4,0.15,CL,Bronce,61,2025-11-06,CHL,Chile,Latin America & Caribbean ,High income,Santiago,4892282b431d
+157,2026-07-24,30170.0,Tienda,Alimentos,2,0.05,CO,Oro,68,2024-03-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2d8aa8f50439
+251,2026-07-25,69210.0,Marketplace,Deportes,1,0.1,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
+185,2026-07-26,100947.0,Web,Hogar,3,0.0,AR,Plata,25,2024-02-27,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,830cc8241ed7
+153,2026-07-27,31220.0,Tienda,Deportes,1,0.2,CO,Oro,68,2024-03-12,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2d8aa8f50439
+216,2026-07-27,96540.0,Tienda,Deportes,3,0.0,CL,Plata,34,2024-01-16,CHL,Chile,Latin America & Caribbean ,High income,Santiago,3d44f20f927e
+175,2026-07-28,35654.0,App,Alimentos,2,0.1,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
+250,2026-07-28,107090.0,Marketplace,Tecnología,1,0.0,CL,Plata,27,2024-10-20,CHL,Chile,Latin America & Caribbean ,High income,Santiago,d2277dcc72d9
+257,2026-07-28,23590.0,Tienda,Belleza,1,0.2,PE,Bronce,33,2024-09-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a6ee29e96028
+276,2026-07-28,38387.0,Web,Deportes,1,0.1,MX,Bronce,55,2024-05-23,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9fd99164f6b2
+95,2026-07-29,50899.0,App,Tecnología,1,0.0,CO,Bronce,24,2024-05-11,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,77d3a1798493
+234,2026-07-29,238306.0,Tienda,Deportes,2,0.1,AR,Oro,55,2024-04-01,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,482b2ce4d2ad
+283,2026-07-29,52232.0,Marketplace,Libros,1,0.0,CL,Premium,23,2024-04-02,CHL,Chile,Latin America & Caribbean ,High income,Santiago,f9c650901373
+66,2026-07-30,47853.0,Marketplace,Belleza,1,0.1,AR,Plata,58,2025-10-14,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,32e5d14b40f2
+318,2026-07-30,24982.0,Web,Deportes,2,0.2,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+354,2026-07-30,66323.0,Marketplace,Deportes,1,0.0,CO,Plata,65,2025-01-10,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,fe44e5196da5
+130,2026-08-01,37044.0,App,Belleza,3,0.15,PE,Bronce,59,2024-12-09,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,68542c140eab
+151,2026-08-01,67724.0,Marketplace,Belleza,1,0.0,CO,Premium,47,2024-02-09,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,901f509b7091
+390,2026-08-01,106368.0,Tienda,Belleza,4,0.05,CO,Premium,56,2025-08-28,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,3e205cc9e083
+392,2026-08-01,14306.0,Marketplace,Libros,1,0.05,CO,Bronce,28,2025-01-17,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,19474bb6466a
+50,2026-08-02,130331.0,Web,Hogar,1,0.15,CO,Oro,68,2024-08-14,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,c54f9bcc60dc
+421,2026-08-02,8347.0,Web,Alimentos,1,0.15,BR,Bronce,24,2024-02-29,BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,4ff87bdb198c
+141,2026-08-03,164447.0,Tienda,Hogar,2,0.2,CL,Premium,30,2024-03-18,CHL,Chile,Latin America & Caribbean ,High income,Santiago,31752f06c312
+444,2026-08-03,56099.0,Tienda,Alimentos,3,0.1,AR,Premium,38,2024-06-10,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,887b49c5bceb
+82,2026-08-04,75857.0,Tienda,Deportes,3,0.0,CO,Plata,27,2024-10-15,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,2a065a15cb85
+197,2026-08-05,16333.0,Tienda,Alimentos,1,0.1,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+241,2026-08-05,37614.0,Web,Tecnología,1,0.1,CL,Plata,40,2025-12-10,CHL,Chile,Latin America & Caribbean ,High income,Santiago,01b11d58da27
+150,2026-08-06,28110.0,Marketplace,Belleza,4,0.1,PE,Bronce,40,2024-05-10,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,c58c80215527
+6,2026-08-07,33122.0,Marketplace,Deportes,2,0.0,CL,Oro,69,2025-06-24,CHL,Chile,Latin America & Caribbean ,High income,Santiago,9831c02d53b7
+282,2026-08-07,50738.0,Marketplace,Libros,4,0.2,AR,Plata,23,2024-09-30,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,f2b1777ae260
+164,2026-08-08,50414.0,Marketplace,Alimentos,1,0.0,CO,Premium,47,2024-02-09,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,901f509b7091
+195,2026-08-08,31826.0,Web,Libros,1,0.0,CL,Plata,38,2025-05-08,CHL,Chile,Latin America & Caribbean ,High income,Santiago,6386b89045ed
+65,2026-08-09,48723.0,Marketplace,Tecnología,1,0.0,CL,Bronce,50,2024-06-01,CHL,Chile,Latin America & Caribbean ,High income,Santiago,7e4b0d36655d
+125,2026-08-09,93077.0,App,Libros,3,0.1,AR,Premium,35,2024-09-05,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,ea8a57b8d4a6
+205,2026-08-09,43193.0,Web,Deportes,2,0.05,MX,Bronce,55,2024-05-23,MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,9fd99164f6b2
+413,2026-08-09,29883.0,App,Belleza,2,0.15,PE,Plata,48,2024-06-30,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,c89664f9c984
+243,2026-08-10,80445.0,Tienda,Hogar,3,0.15,CO,Bronce,25,2024-01-25,COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,7ca5df170019
+101,2026-08-11,131519.0,Tienda,Tecnología,4,0.1,PE,Plata,64,2024-12-28,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a804540956a5
+319,2026-08-11,31582.0,Tienda,Belleza,1,0.2,PE,Bronce,41,2024-08-10,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,9f86fe9b7e51
+434,2026-08-11,35144.0,Marketplace,Deportes,1,0.0,AR,Plata,67,2024-10-22,ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,b741a9127ba9
+199,2026-08-12,51700.0,Web,Belleza,1,0.0,PE,Bronce,33,2024-09-18,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,a6ee29e96028
+273,2026-08-12,15959.0,Marketplace,Alimentos,1,0.0,PE,Bronce,46,2025-08-19,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,3eea3c3d25c6
+204,2026-08-13,112753.0,Marketplace,Deportes,1,0.0,PE,Plata,42,2024-01-27,PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,41b49a91bd6f
